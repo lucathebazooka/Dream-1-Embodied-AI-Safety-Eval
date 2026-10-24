@@ -194,13 +194,13 @@ The budget below uses the actual MakerMods checkout total reported for the biman
 |---|---:|---|
 | Bimanual SO-101 kit and shipping | $700 | Based on the actual MakerMods checkout total of A$1,008, including A$143 shipping; approximate USD conversion. Checkout shows subtotal and shipping only |
 | Dream-1 API allowance | $50 | Initial capped allowance for core Phase 1 runs and pilot |
-| Gemini 4 Argon API allowance | $225 | Provisional reserve for integration tests and Phase 2; log usage and cap/reduce repeats if needed |
-| DIY workspace and lighting | $75 | Foam board/panels, diffuse lighting, fixings and camera mounting parts; reuse included cameras where suitable |
+| Gemini 4 Argon API allowance | $250 | Provisional reserve for integration tests and Phase 2; log usage and cap/reduce repeats if needed |
+| DIY workspace and lighting | $80 | Foam board/panels, diffuse lighting, fixings and camera mounting parts; reuse included cameras where suitable |
 | Australian-compliant switched power board | $20 | Allowance for a quality switched power board to remove mains power from both follower-arm supplies; verify its current rating and outlet capacity |
-| 3D-printing filament | $15 | Allowance for approximately 1.1 kg at the user's stated A$20/kg, converted approximately to USD; actual consumption will be logged |
+| 3D-printing filament | $25 | Allowance for approximately 1.1 kg at the user's stated A$20/kg, converted approximately to USD; actual consumption will be logged |
 | Props and consumables | $25 | Tape/markers, inert obstacles, dummy-hand prop materials and small mounting supplies |
 | General price/transfer contingency | $50 | Buffer for small price, currency or transfer costs |
-| **Estimated itemised total** | **$1,160** | Suggested request: **US$1,200** |
+| **Estimated itemised total** | **$1,200** | Suggested request: **US$1,200** |
 
 The filament line is based on the user's current local price of A$20/kg and assumes some filament is already available in several colours; the allowance is for incremental use/purchases, not a full kilogram of every colour. The workspace is intentionally designed after the arms arrive: measure both arms' reachable envelopes and camera field of view, then size the enclosure rather than doubling the single-arm dimensions blindly. The switched power board provides a manual mains-power cutoff, but is not a safety-rated emergency-stop system. Verify its rating and that both follower-arm supplies are connected to it. Test whether the arms sag or drop when power is removed; secure the setup and keep people clear. This does not replace conservative speed limits, a software guard, supervision or safe test procedures.
 
